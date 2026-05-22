@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "how-to-build-cloud-file-sync-on-watch entry module.",
+  "main": "",
+  "author": "hmosdemos",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Cloud file sync codelab for HarmonyOS wearable"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "File synchronization"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "how-to-build-cloud-file-sync"
+    },
+    {
+      "name": "app_title",
+      "value": "Cloud Sync Manager"
+    },
+    {
+      "name": "landing_summary",
+      "value": "Manage watch cloud files from focused pages."
+    },
+    {
+      "name": "start_page",
+      "value": "Start"
+    },
+    {
+      "name": "queue_page",
+      "value": "Queue"
+    },
+    {
+      "name": "transfer_page",
+      "value": "Transfers"
+    },
+    {
+      "name": "error_page",
+      "value": "Errors"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "empty_queue",
+      "value": "No queued files yet"
+    },
+    {
+      "name": "upload",
+      "value": "Upload"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "upload_files",
+      "value": "Upload files"
+    },
+    {
+      "name": "download_files",
+      "value": "Download files"
+    },
+    {
+      "name": "no_errors",
+      "value": "No errors stored"
+    },
+    {
+      "name": "clear_errors",
+      "value": "Clear"
+    },
+    {
+      "name": "online",
+      "value": "Online"
+    },
+    {
+      "name": "offline",
+      "value": "Offline"
+    },
+    {
+      "name": "sync_now",
+      "value": "Sync"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "resume",
+      "value": "Resume"
+    },
+    {
+      "name": "go_offline",
+      "value": "Offline"
+    },
+    {
+      "name": "go_online",
+      "value": "Online"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "retry",
+      "value": "Retry"
+    },
+    {
+      "name": "conflict_title",
+      "value": "Merge conflict"
+    },
+    {
+      "name": "keep_watch",
+      "value": "Watch"
+    },
+    {
+      "name": "keep_cloud",
+      "value": "Cloud"
+    },
+    {
+      "name": "merge",
+      "value": "Merge"
+    }
+  ]
+}

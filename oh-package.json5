@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.1",
+  "name": "how-to-build-cloud-file-sync-on-watch",
+  "description": "HarmonyOS wearable cloud file sync codelab.",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
