@@ -27,7 +27,7 @@ It shows cloud sync/cache flows, file sharing permissions, environment path hand
 
 - **Languages**: ArkTS, ArkUI
 - **Frameworks**: HarmonyOS SDK 6.0.1(21)
-- **Tools**: DevEco Studio (HarmonyOS NEXT toolchain), Hvigor
+- **Tools**: DevEco Studio (HarmonyOS toolchain), Hvigor
 - **Libraries**:
     - `@kit.AbilityKit`
     - `@kit.CoreFileKit`
